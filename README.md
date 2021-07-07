@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Vishwakarm&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Connect with me </h3>
-<img width=50 src=Images/Facebook.png
- /><img width=50 src=Images/Linkedin.png /><img width=50 src=Images/Instagram.jpeg /><img width=50 src=Images/Spotify.png /><img width=50 src=Images/Clubhouse.jpeg />
+<p><img width=50 src=Images/Facebook.png
+ /><img width=50 src=Images/Linkedin.png /><img width=50 src=Images/Instagram.jpeg /><img width=50 src=Images/Spotify.png /><img width=50 src=Images/Clubhouse.jpeg /></p>
 
 <h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
