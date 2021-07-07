@@ -16,12 +16,6 @@
 - ⚡ Fun fact: .I don't code everyday
 ```
 
-<h3>Languages I mainly used:<h3/>
-<img margin-left: auto;
-margin-right: auto; width=100; src=Images/Pythonmain.jpg />
-<img width=110 src=Images/Python1.png />
-<img width=100 src=Images/Mysql.png />
-<h3>
 <h3>Github Stats</h3>
 
 ![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Vishwakarm&show_icons=true&theme=dracula)
@@ -30,14 +24,6 @@ margin-right: auto; width=100; src=Images/Pythonmain.jpg />
 
 <h3>Connect with me </h3>
 <img width=50 src=Images/Facebook.png
- />
- 
-<img width=50 src=Images/Linkedin.png />
-
-<img width=50 src=Images/Instagram.jpeg />
-
-<img width=50 src=Images/Spotify.png />
-
-<img width=50 src=Images/Clubhouse.jpeg />
+ /> <img width=50 src=Images/Linkedin.png /> <img width=50 src=Images/Instagram.jpeg /> <img width=50 src=Images/Spotify.png /> <img width=50 src=Images/Clubhouse.jpeg />
 
 <h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
