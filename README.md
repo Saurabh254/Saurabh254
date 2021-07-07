@@ -24,6 +24,10 @@
 
 <h3>Connect with me </h3>
 <p><img width=50 src=Images/Facebook.png
- /><img width=50 src=Images/Linkedin.png /><img width=50 src=Images/Instagram.jpeg /><img width=50 src=Images/Spotify.png /><img width=50 src=Images/Clubhouse.jpeg /></p>
+ />
+ <img width=50 src=Images/Linkedin.png />
+ <img width=50 src=Images/Instagram.jpeg />
+ <img width=50 src=Images/Spotify.png />
+ <img width=50 src=Images/Clubhouse.jpeg /></p>
 
 <h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
