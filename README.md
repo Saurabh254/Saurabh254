@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1>नमस्ते (Namaste)👋 </h1>
+<h4>I'm Saurabh Vishwakarma</h4>
+<img src=Images/Main.png />
+<h5>A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P) and working on some python projects. You can find me on 
+<a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
+<img width=10 src=Images/Linkedin.png/> </a></h5>
 
-<!--
-**Saurabh-Vishwakarm/Saurabh-Vishwakarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning Python Modules
+- 👯 I’m looking to collaborate on Python modules
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about Hobbies, Passion, Programming language
+- 📫 How to reach me: Instagram, Linkedin etc
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: .I don't code everyday
+```
 
-Here are some ideas to get you started:
+<h3>Languages I mainly used:<h3/>
+<img margin-left: auto;
+margin-right: auto; width=100; src=Images/Pythonmain.jpg />
+<img width=110 src=Images/Python1.png />
+<img width=100 src=Images/Mysql.png />
+<h3>
+<h3>Github Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Vishwakarm&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Vishwakarm&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>Connect with me </h3>
+<img width=50 src=Images/Facebook.png
+ />
+ 
+<img width=50 src=Images/Linkedin.png />
+
+<img width=50 src=Images/Instagram.jpeg />
+
+<img width=50 src=Images/Spotify.png />
+
+<img width=50 src=Images/Clubhouse.jpeg />
+
+<h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
