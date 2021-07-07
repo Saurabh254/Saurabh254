@@ -1,9 +1,10 @@
 <h1>नमस्ते (Namaste)👋 </h1>
 <h4>I'm Saurabh Vishwakarma</h4>
 <img src=Images/Main.png />
-<h5>A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P) and working on some python projects. You can find me on 
-<a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
-<img width=10 src=Images/Linkedin.png/> </a></h5>
+<h3>About Me:</h3>
+<h5>I'm Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P) and working on some python projects. You can find me on 
+<a href="https://www.instagram.com/_saurabh_030"><img width=15 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
+<img width=15 src=Images/Linkedin.png/> </a></h5>
 
 ```
 - 🔭 I’m currently working on Python Projects
