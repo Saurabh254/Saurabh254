@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Python Projects
 - 🌱 I’m currently learning Python Modules
 - 👯 I’m looking to collaborate on Python modules
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Mysql
 - 💬 Ask me about Hobbies, Passion, Programming language
 - 📫 How to reach me: Instagram, Linkedin etc
 - 😄 Pronouns: He/Him
@@ -22,7 +22,12 @@
 ![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Vishwakarm&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Vishwakarm&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)-->
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 <h3>Connect with me </h3>
 <p><img width=50 src=Images/Facebook.png
  />
