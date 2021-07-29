@@ -26,7 +26,8 @@
 ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
 <h3>WakaTime stats</h3>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030" alt="wakatime" width="100%"
 <!-- If you're using "main" as default branch 
 ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)-->
 <!-- If you're using the "columns" display mode -->
