@@ -8,8 +8,6 @@
 
 ```
 - 🔭 I’m currently working on Python Projects
-- 🌱 I’m currently learning Python Modules
-- 👯 I’m looking to collaborate on Python modules
 - 🤔 I’m looking for help with Mysql
 - 💬 Ask me about Hobbies, Passion, Programming language
 - 📫 How to reach me: Instagram, Linkedin etc
@@ -17,7 +15,7 @@
 - ⚡ Fun fact: .I don't code everyday
 ```
 
-<h3>Github Stats</h3>
+<h3>Github Stats:</h3>
 
 ![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Vishwakarm&show_icons=true&theme=dracula)
 
@@ -25,14 +23,11 @@
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
-<h3>WakaTime stats</h3>
+<h3>WakaTime stats: </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030" alt="wakatime" width="100%" >
-<!-- If you're using "main" as default branch 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)-->
-<!-- If you're using the "columns" display mode -->
-<img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%">
-<h3>Connect with me </h3>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030" alt="wakatime" width="100%" />
+
+<h3>Connect with me: </h3>
 <p><img width=50 src=Images/Facebook.png
  />
  <img width=50 src=Images/Linkedin.png />
