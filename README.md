@@ -12,7 +12,7 @@
 - 💬 Ask me about Hobbies, Passion, Programming language
 - 📫 How to reach me: Instagram, Linkedin etc
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: .I don't code everyday
+- ⚡ Fun fact: . don't code everyday
 ```
 
 <h3>Github Stats:</h3>
@@ -30,9 +30,9 @@
 <h3>Connect with me: </h3>
 <p><img width=50 src=Images/Facebook.png
  />
- <img width=50 src=Images/Linkedin.png />
- <img width=50 src=Images/Instagram.jpeg />
- <img width=50 src=Images/Spotify.png />
- <img width=50 src=Images/Clubhouse.jpeg /></p>
+ <img object-fit: cover; border-radius: 50%; width=50 src=Images/Linkedin.png />
+ <img object-fit: cover; border-radius: 50%; width=50 src=Images/Instagram.jpeg />
+ <img object-fit: cover; border-radius: 50%; width=50 src=Images/Spotify.png />
+ <img object-fit: cover; border-radius: 50%; width=50 src=Images/Clubhouse.jpeg /></p>
 
-<h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
+<h2>Thank You!!! <img object-fit: cover; border-radius: 50%; width=25 src=Images/emoji.png /></h2>
