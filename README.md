@@ -12,7 +12,7 @@
 - 💬 Ask me about Hobbies, Passion, Programming language
 - 📫 How to reach me: Instagram, Linkedin etc
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: . don't code everyday
+- ⚡ Fun fact: I don't code everyday
 ```
 
 <h3>Github Stats:</h3>
@@ -30,9 +30,9 @@
 <h3>Connect with me: </h3>
 <p><img width=50 src=Images/Facebook.png
  />
- <img object-fit: cover; border-radius: 50%; width=50 src=Images/Linkedin.png />
- <img object-fit: cover; border-radius: 50%; width=50 src=Images/Instagram.jpeg />
- <img object-fit: cover; border-radius: 50%; width=50 src=Images/Spotify.png />
- <img object-fit: cover; border-radius: 50%; width=50 src=Images/Clubhouse.jpeg /></p>
+ <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab"><img width=50 src=Images/Linkedin.png /></a>
+ <a href="https://www.instagram.com/_saurabh_030"><img width=50 src=Images/Instagram.jpeg /></a>
+ <a href="https://open.spotify.com/user/x2sgb1mixyn9luu7cgtvw45o6?si=6h0RDh2gQcG_QSPG601h7w&utm_source=copy-link&dl_branch=1"><img width=50 src=Images/Spotify.png /></a>
+ <a href="https://www.clubhouse.com/@_saurabh_030"><img width=50 src=Images/Clubhouse.jpeg /></p></a>
 
-<h2>Thank You!!! <img object-fit: cover; border-radius: 50%; width=25 src=Images/emoji.png /></h2>
+<h2>Thank You!!! <img width=25 src=Images/emoji.png /></h2>
