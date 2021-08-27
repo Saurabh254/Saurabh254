@@ -2,14 +2,16 @@
 <h4>I'm Saurabh Vishwakarma</h4>
 <img src=Images/Main.png />
 <h3>About Me:</h3>
-<h5>I'm Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P) and working on some python projects. You can find me on 
-<a href="https://www.instagram.com/_saurabh_030"><img width=15 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
+<h5>I'm Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some python Discord Bots. 
+I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
+
+You can find me on :
+<a href="https://www.instagram.com/_saurabh_030"><img width=11 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
 <img width=15 src=Images/Linkedin.png/> </a></h5>
 
 ```
 - 🔭 I’m currently working on Python Projects
-- 🤔 I’m looking for help with Mysql
-- 💬 Ask me about Hobbies, Passion, Programming language
+- 💬 Ask me about Hobbies, Passion, Programming languages
 - 📫 How to reach me: Instagram, Linkedin etc
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't code everyday
