@@ -25,10 +25,6 @@ You can find me on :
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
-<h3>WakaTime stats: </h3>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030" alt="wakatime" width="100%" />
-
 <h3>Connect with me: </h3>
 <p><a href="https://m.facebook.com/saurav.vishwakarma.5245?ref=bookmarks"><img width=50 src=Images/Facebook.png
  /></a>
