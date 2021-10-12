@@ -2,7 +2,7 @@
 <h4>I'm Saurabh Vishwakarma</h4>
 <img src=Images/Main.png />
 <h3>About Me:</h3>
-<h5>I'm Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some python Discord Bots. 
+<h5>I'm a 18years old boy and A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some python Discord Bots. 
 I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 You can find me on :
