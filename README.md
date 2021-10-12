@@ -2,12 +2,12 @@
 <h4>I'm Saurabh Vishwakarma</h4>
 <img src=Images/Main.png />
 <h3>About Me:</h3>
-<h5>I'm a 18years old boy and A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some python Discord Bots. 
-I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
+<h5>I'm a 18years old boy and A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some discord.py Bots, Basic web pagegs and Several python modules. 
+Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 You can find me on :
-<a href="https://www.instagram.com/_saurabh_030"><img width=11 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
-<img width=15 src=Images/Linkedin.png/> </a></h5>
+<a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
+<img width=10 src=Images/Linkedin.png/> </a></h5>
 
 ```
 - 🔭 I’m currently working on Python Projects
