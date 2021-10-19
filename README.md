@@ -1,6 +1,6 @@
 <h1>नमस्ते (Namaste)👋 </h1>
 <h4>I'm Saurabh Vishwakarma</h4>
-<img src=Images/Main.png />
+<img src=Images/Main.png width="200"/>
 <h3>About Me:</h3>
 <h5>I'm a 18years old boy and A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some discord.py Bots, Basic web pagegs and Several python modules. 
 Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
@@ -24,6 +24,11 @@ You can find me on :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Vishwakarm&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
+
+<h3>Wakatime Stats</h3>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>Connect with me: </h3>
 <p><a href="https://m.facebook.com/saurav.vishwakarma.5245?ref=bookmarks"><img width=50 src=Images/Facebook.png
