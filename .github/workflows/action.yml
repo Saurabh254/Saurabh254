@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Saurabh-Vishwakarm
+          user: Saurabh254
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
