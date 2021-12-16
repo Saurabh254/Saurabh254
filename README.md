@@ -19,9 +19,9 @@ You can find me on :
 
 <h3>Github Stats:</h3>
 
-![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Vishwakarm&show_icons=true&theme=dracula)
+![Saurabhh GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Vishwakarm&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
