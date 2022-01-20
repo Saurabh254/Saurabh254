@@ -1,13 +1,15 @@
-<h1>नमस्ते (Namaste)👋 </h1>
-<h4>I'm Saurabh Vishwakarma</h4>
-<img src=Images/Main.png width="200"/>
-<h3>About Me:</h3>
-<h5>I'm a 18years old boy and A Passionate self-taught Coder from India. Currently Opting for Btech Cs from Bhopal(M.P). Right now I'm working on some discord.py Bots, Basic web pagegs and Several python modules. 
+<h1 >नमस्ते (Namaste)👋 </h1>
+<h1>I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </h1>
+<a src=Images/border.png> </a>
+<!-- <hr> -->
+<!-- <img src=Images/Main.png width="200"/> -->
+<h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
+<h3>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for Btech Cs from Bhopal(M.P). <br><br> These days I'm working on some discord.py Bots, Basic web pagegs and Several python modules. 
 Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 You can find me on :
 <a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
-<img width=10 src=Images/Linkedin.png/> </a></h5>
+<img width=10 src=Images/Linkedin.png/> </a></h3>
 
 ```
 - 🔭 I’m currently working on Python Projects
