@@ -5,18 +5,18 @@
 <!-- <img src=Images/Main.png width="200"/> -->
 <h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
 
-<h3 align="center">I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. Additionally I have mere knowledge about networking, linux and basic structure of webpages. 
+<p align=center font-family='Trebuchet MS'>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have mere knowledge about networking and linux. 
 Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 <!-- 
 You can find me on :
 <a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
 <img width=10 src=Images/Linkedin.png/> </a></h3> -->
-<br>
+</p>
 
-```
-- 😄 Pronouns: He/Him -
-```
+<p align=center font-family="sans-serif">
+- 😄 Pronouns: He/Him - 
 
+</p>
 <hr>
 <h3>Github Stats:</h3><br>
 <p align="center">
