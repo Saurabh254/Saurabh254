@@ -28,7 +28,6 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 </p>
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
 <hr>
 
@@ -38,6 +37,13 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030">
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
+<hr>
+<h2> 𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬: </h2>
+<p align="center">
+
+![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
+</p>
+
 <hr>
 
 <h2 align="center">𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖔𝖓 :</h2>
