@@ -1,16 +1,13 @@
-<h1 align="center">नमस्ते (Namaste)👋 </h1>
-<h2 align="center">My Name is  𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </h2>
+<h1 align="center">नमस्ते (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
+<h2 align="center">I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </h2>
 <!-- <img src=Images/border.png> -->
 <!-- <hr> -->
 <!-- <img src=Images/Main.png width="200"/> -->
 <h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
 
-<p align=center font-family='Trebuchet MS'>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have mere knowledge about networking and linux. 
+<p align=center font-family='Trebuchet MS'>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have a bit knowledge about networking and linux. 
 Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
-<!-- 
-You can find me on :
-<a href="https://www.instagram.com/_saurabh_030"><img width=10 src=Images/Instagram.jpeg /></a> and <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab">
-<img width=10 src=Images/Linkedin.png/> </a></h3> -->
+
 </p>
 
 <p align=center font-family="sans-serif">
@@ -18,24 +15,24 @@ You can find me on :
 
 </p>
 <hr>
-<h3>Github Stats:</h3><br>
+<h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:</h2><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=dracula">
 </p>
 <hr>
 
-<h3> Top languages: </h3>
+<h2>𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2>
 <br> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 <!-- If you're using "master" as default branch -->
-<!-- ![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg) -->
+![Metrics](https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg)
 
 <hr>
 
-<h3>Wakatime Stats</h3>
+<h2>𝐖𝐚𝐤𝐚𝐓𝐢𝐦𝐞 𝐒𝐭𝐚𝐭𝐬:</h2>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030">
@@ -43,8 +40,8 @@ You can find me on :
 </p>
 <hr>
 
-<h3 align="center">Connect On: </h3>
-
+<h2 align="center">𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖔𝖓 :</h2>
+<br>
 <p align="center">
 <a href="https://m.facebook.com/saurav.vishwakarma.5245?ref=bookmarks"><img width=50 src="https://i.imgur.com/VgkNYXI.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
