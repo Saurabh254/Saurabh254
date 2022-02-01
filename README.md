@@ -1,5 +1,7 @@
 <h1 align="center">नमस्ते (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
-<h2 align="center">I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </h2>
+<h2 align="center">I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=Saurabh254"></h2>
 <!-- <img src=Images/border.png> -->
 <!-- <hr> -->
 <!-- <img src=Images/Main.png width="200"/> -->
@@ -21,7 +23,7 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 </p>
 <hr>
 
-<h2>𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2>
+<h2>𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2> 
 <br> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
