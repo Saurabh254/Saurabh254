@@ -1,10 +1,8 @@
 <h1 align="center">नमस्ते (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
-<h2 align="center">I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 
+<h2 align="center">I'm 𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Saurabh254"></h2>
-<!-- <img src=Images/border.png> -->
-<!-- <hr> -->
-<!-- <img src=Images/Main.png width="200"/> -->
+
 <h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
 
 <p align=center font-family='Trebuchet MS'>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have a bit knowledge about networking and linux. 
@@ -13,23 +11,17 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 </p>
 
 <p align=center font-family="sans-serif">
-- 😄 Pronouns: He/Him - 
+- 😄 Pronouns: He/Him -
 
 </p>
-<hr>
-<h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:</h2><br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=dracula">
-</p>
+
 <hr>
 
 <h2>𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2> 
 <br> 
-<p align="center">
+<p align="center" height="250" width="250">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
 </p>
-
-<!-- If you're using "master" as default branch -->
 
 <hr>
 
@@ -37,7 +29,18 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030">
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>
+
+<hr>
+<h2> 𝗦𝘁𝗿𝗲𝗮𝗸 𝗦𝘁𝗮𝘁𝘀:</h2>
+<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254">
+</p>
+<hr>
+<h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:</h2><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=dracula">
 </p>
 <hr>
 <h2> 𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬: </h2>
