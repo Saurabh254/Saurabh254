@@ -15,13 +15,6 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 
 </p>
 
-<hr>
-
-<h2>𝐓𝐨𝐩 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2> 
-<br> 
-<p align="center" height="250" width="250">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
-</p>
 
 <hr>
 
@@ -31,17 +24,21 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030">
 </p>
 
-<hr>
-<h2> 𝗦𝘁𝗿𝗲𝗮𝗸 𝗦𝘁𝗮𝘁𝘀:</h2>
-<br>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254">
-</p>
+
 <hr>
 <h2>𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:</h2><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=dracula">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254">
 </p>
+<hr>
+
+<h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2> 
+<br> 
+<p align="center" height="250" width="250">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
+</p>
+
 <hr>
 <h2> 𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬: </h2>
 <p align="center">
@@ -49,6 +46,11 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 <img src="https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg">
 </p>
 
+<hr>
+<h2>Spotify stats: </h2>
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=x2sgb1mixyn9luu7cgtvw45o6&cover_image=false&theme=default&bar_color_cover=true&bar_color=9135ed">
+</p>
 <hr>
 
 <h2 align="center">𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖔𝖓 :</h2>
@@ -62,6 +64,7 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://open.spotify.com/user/x2sgb1mixyn9luu7cgtvw45o6?si=6h0RDh2gQcG_QSPG601h7w&utm_source=copy-link&dl_branch=1"><img width=50 src="https://i.imgur.com/qvdqtsc.png"/></a> 
 </p>
+
  <hr>
  
 <br>
