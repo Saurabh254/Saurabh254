@@ -5,7 +5,7 @@
 
 <h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
 
-<p align=center font-family='Trebuchet MS'>I'm a 18 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have a bit knowledge about networking and linux. 
+<p align=center font-family='Trebuchet MS'>I'm a 19 years old boy and A Passionate self-taught Coder from INDIA. Currently Opting for BTech CSE from Bhopal (M.P). I'm working on Python based discord bots, Py Modules, Parallelly I'm learning DSA and C++. I have a bit knowledge about networking and linux. 
 Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 </p>
@@ -55,13 +55,10 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 
 <h2 align="center">𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖔𝖓 :</h2>
 <br>
-<p align="center">
+<p align="center" display='flex' justify-content='space-evenly'>
 <a href="https://m.facebook.com/saurav.vishwakarma.5245?ref=bookmarks"><img width=50 src="https://i.imgur.com/VgkNYXI.png"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab"><img width=50 src="https://i.imgur.com/NGBriju.png"/></a> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/_saurabh_030"><img width=50 src="https://i.imgur.com/M6yBwxS.png"/></a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://open.spotify.com/user/x2sgb1mixyn9luu7cgtvw45o6?si=6h0RDh2gQcG_QSPG601h7w&utm_source=copy-link&dl_branch=1"><img width=50 src="https://i.imgur.com/qvdqtsc.png"/></a> 
 </p>
 
