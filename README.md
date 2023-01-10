@@ -43,7 +43,7 @@ Also I'm looking forward to absorb knowledge 🧠, gain experience 🏭, collabo
 <h2> 𝐎𝐭𝐡𝐞𝐫 𝐒𝐭𝐚𝐭𝐬: </h2>
 <p align="center">
 
-<img src="https://github.com/Saurabh-Vishwakarm/Saurabh-Vishwakarm/blob/main/github-metrics.svg">
+<img src="https://github.com/Saurabh254/Saurabh254/blob/main/github-metrics.svg">
 </p>
 
 <hr>
