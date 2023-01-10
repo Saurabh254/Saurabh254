@@ -17,8 +17,8 @@ jobs:
 
           # Options
           user: Saurabh254
-          template: classic
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: header, activity, community, repositories, metadata, 
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_secrets: yes
@@ -34,3 +34,4 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
+          plugin_lines: yes
