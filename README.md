@@ -53,7 +53,7 @@
 </p>
 <hr>
 <h2>Contribution:</h2>
-<p><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh254&theme=buefy'>
+<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh254&theme=buefy'>
 <br>
 <br>
 
