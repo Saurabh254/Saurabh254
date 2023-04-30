@@ -2,7 +2,7 @@
 <h2 align="center" style='color:#6F3CE8'>I'm <span style='color:green'>𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </span><br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Saurabh254"></h2>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saurabh254}1212%2Fhit-counter">
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saurabh254}1212%2Fhit-counter"> -->
 </h2>
 
 <h2>𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h2>
