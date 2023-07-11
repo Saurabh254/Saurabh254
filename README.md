@@ -7,7 +7,9 @@
 </h3>
 
 <h3 align="center">𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
-```py
+
+```python
+
 > I'm a 19 years old boy and A Passionate self-taught
   Coder from INDIA.
 
@@ -20,8 +22,10 @@
 > Other than that I'm a linux hopper and a music addict.
 
 > I code to make my life easier.
+
 ```
-```py
+
+```python
 😄 Pronouns: He/Him -
 ```
 <hr />
