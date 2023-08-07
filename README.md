@@ -66,7 +66,7 @@
 <h3 align='center'>Languages and Tools</h3>
 <hr />
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=java,bash,bootstrap,c,cpp,python,css,scss,django,emacs,fastapi,git,github,heroku,html,js,jquery,react,linux,materialui,mongodb,mysql,postgres,netlify,nginx,nodejs,postman,redis,selenium,tailwind,vim,flask,nodejs,figma&theme=light&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,bash,bootstrap,c,cpp,python,css,scss,django,emacs,fastapi,git,github,heroku,html,js,jquery,react,linux,materialui,mongodb,mysql,postgres,netlify,nginx,nodejs,postman,redis,selenium,tailwind,vim,flask,figma&theme=light&perline=12" />
 </p>
 
 
