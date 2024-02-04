@@ -13,7 +13,12 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with: 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}j
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          SECTION_NAME: wakatime-stats
+          COMMIT_BY_ME: True
+          COMMIT_USERNAME: ReadMe-Bot
+          SHOW_COMMIT: True
+          SHOW_LANGUAGE: True
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
