@@ -10,10 +10,10 @@ jobs:
   wakatime-matrok:
     runs-on: ubuntu-latest 
     steps: 
-      - uses: anmol098/waka-readmej-stats@master
+      - uses: anmol098/waka-readme-stats@master
       with: 
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-      GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+        GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
