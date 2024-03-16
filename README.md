@@ -3,7 +3,7 @@
 </h2>
 <hr />
 <p align='center'>
-<img src="https://granite-prickle-tarragon.glitch.me/badge?page_id=dereference03">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/>
 </p>
 <hr />
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saurabh354}1212%2Fhit-counter"> -->
