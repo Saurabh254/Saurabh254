@@ -3,7 +3,7 @@
 </h2>
 <hr />
 <p align='center'>
-<img src="https://granite-prickle-tarragon.glitch.me/badge?page_id=Saurabh254">
+<img src="https://granite-prickle-tarragon.glitch.me/badge?page_id=dereference03">
 </p>
 <hr />
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saurabh354}1212%2Fhit-counter"> -->
@@ -49,9 +49,9 @@
 <h3 align="center">GitHub Stats:</h3>
 <hr />
 <p align="center" style='display: flex; flex-wrap: wrap;'>
-<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=buefy">
-<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254&theme=buefy">
-<img width='400px' style='border: 1.9px solid grey; border-radius: 10px;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats">
+<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-stats.vercel.app/api?username=dereference03&show_icons=true&theme=buefy">
+<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-streak-stats.herokuapp.com/?user=dereference03&theme=buefy">
+<img width='400px' style='border: 1.9px solid grey; border-radius: 10px;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereference03&layout=compact&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 <hr>
 
@@ -73,11 +73,11 @@
 <hr>
 <h3 align="center">Contribution:</h3>
 <hr />
-<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh254&theme=buefy'>
+<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dereference03&theme=buefy'>
 <br>
 <br>
 
-<img src='https://github-profile-trophy.vercel.app/?username=Saurabh254&theme=buefy'>
+<img src='https://github-profile-trophy.vercel.app/?username=dereference03&theme=buefy'>
 </p>
 <hr />
 <h3 align="center" style="text-decoration: underline">Connect on :</h3>
