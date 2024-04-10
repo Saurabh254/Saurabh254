@@ -44,6 +44,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030&show_icons=true&theme=buefy">
 </p>
+<img src="https://wakatime.com/share/@_saurabh_030/642cb316-ad39-4f10-81d9-95c742405cdf.svg" />
+<hr />
 
 <hr>
 <h3 align="center">GitHub Stats:</h3>
