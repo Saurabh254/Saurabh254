@@ -2,9 +2,10 @@
 <h2 align="center" style='color:#6F3CE8'>I'm <span style='color:green'>𝕾𝖆𝖚𝖗𝖆𝖇𝖍 𝖛𝖎𝖘𝖍𝖜𝖆𝖐𝖆𝖗𝖒𝖆 </span>
 </h2>
 <hr />
-<p align='center'>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdereference03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
+<div align='center'>
+<img src='/assets/banner.gif'/>
+</div>
+
 <hr />
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Saurabh354}1212%2Fhit-counter"> -->
 </h3>
@@ -14,14 +15,10 @@
 <pre>
 |
 |
-|--> I'm a 20 years old boy and A Passionate self-taught
-|    Coder from INDIA.
+|--> I'm a 20 years old and A Passionate self-taught
+|    Full Stack Developer from INDIA.
 |
-|--> Currently Opting for BTech CSE from Bhopal (M.P).
-|
-|--> Also I'm looking forward to absorb knowledge 🧠,
-|    gain experience 🏭, collaborate 🤝 and
-|    build amazing products 🏭 for the world 🌍!
+|--> Currently Opted for BTech CSE from Bhopal (M.P).
 |
 |--> Other than that I'm a linux hopper and a music addict.
 |
@@ -44,16 +41,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030&show_icons=true&theme=buefy">
 </p>
-<img src="https://wakatime.com/share/@_saurabh_030/642cb316-ad39-4f10-81d9-95c742405cdf.svg" />
-<hr />
 
 <hr>
 <h3 align="center">GitHub Stats:</h3>
 <hr />
-<p align="center" style='display: flex; flex-wrap: wrap;'>
-<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-stats.vercel.app/api?username=dereference03&show_icons=true&theme=buefy">
-<img style='border: 0.2px solid grey; border-radius: 5px;' src="https://github-readme-streak-stats.herokuapp.com/?user=dereference03&theme=buefy">
-<img width='400px' style='border: 1.9px solid grey; border-radius: 10px;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereference03&layout=compact&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats">
+<p align="center" style='display: flex; flex-wrap: wrap; width: 100%;'>
+<img style='border: 0.2px solid grey; border-radius: 5px; width: 70% max-width: 400px;' src="https://github-readme-stats.vercel.app/api?username=dereference03&show_icons=true&theme=buefy">
+<img style='border: 0.2px solid grey; border-radius: 5px; width: 70% max-width: 400px;' src="https://github-readme-streak-stats.herokuapp.com/?user=dereference03&theme=buefy">
+<img width='400px' style='border: 1.9px solid grey; border-radius: 10px; width: 70% max-width: 400px;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereference03&layout=compact&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 <hr>
 
@@ -87,8 +82,8 @@
 <p align="center">
     <a href="https://m.facebook.com/saurav.vishwakarma.5245"><img width=50 style="margin: 0 2rem" src="https://i.imgur.com/VgkNYXI.png"></a>
      <a href="https://www.linkedin.com/in/saurabh-vishwakarma-8351371ab"><img style="margin: 0 2rem" width=56 src="https://i.imgur.com/NGBriju.png"/></a>
-    <a href="https://www.instagram.com/_saurabh_030">
-    <img style="margin: 0 2rem" width=50 src="https://i.imgur.com/M6yBwxS.png"/></a>
+    <a href="https://www.instagram.com/i_like_bread_butter">
+    <img style="margin: 0 2rem" width=50 src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png"/></a>
      <a href="https://open.spotify.com/user/x2sgb1mixyn9luu7cgtvw45o6?si=6h0RDh3gQcG_QSPG601h7w&utm_source=copy-link&dl_branch=1">
      <img style="margin: 0 2rem" width=50 src="https://i.imgur.com/qvdqtsc.png"/></a>
 </p>
