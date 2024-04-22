@@ -3,7 +3,7 @@
 </h2>
 <hr />
 <div align='center'>
-<img src='/assets/banner.gif'/>
+<img src='/assets/banner.gif' style='width:100%;'/>
 </div>
 
 <hr />
