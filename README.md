@@ -1,30 +1,24 @@
-<h1 align="center" style='color:#6F3CE8'> <span style='color:green'> नमस्ते </span> (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
-<h2 align="center" style='color:#6F3CE8'>I'm <span style='color:green'>Saurabh Vishwakarma</span>
+<h1 align="center"> <span> नमस्ते </span> (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
+<h2 align="center">I'm <span >Saurabh Vishwakarma</span>
 </h2>
 <hr />
 <div align='center'>
 <img src='/assets/banner.gif' style='width:100%;'/>
 </div>
 
-<hr />
-</h3>
+<hr/>
 
-<h3 align="center">𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:</h3>
-<hr />
-<pre>
-            | About                                                      |
-            | ---------------------------------------------------------- |
-            | I'm a 21 years old and A Passionate self-taught            |
-            | Full Stack Developer from INDIA.                           |
-            |                                                            |
-            | --> Currently Opted for BTech CSE from Bhopal (M.P).       |
-            |                                                            |
-            | --> Other than that I'm a linux hopper and a music addict. |
-            |                                                            |
-            | --> I code to make my life easier.                         |
-            |                                                            |
-            | --> Pronouns: He/Him                                       |
-    </pre>
+<p align='center'>
+
+| About me                                                                         |
+| -------------------------------------------------------------------------------- |
+| I'm a 21 years old and A Passionate self-taught full stack developer from India. |
+| Currently Opted for BTech CSE from Bhopal (M.P).                                 |
+| Other than that I'm a linux hopper and a music addict.                           |
+| I code to make my life easier.                                                   |
+| Pronouns: He/Him                                                                 |
+
+</p>
 
 
 
@@ -35,20 +29,10 @@
 
 <hr>
 
-<h3 align="center">Wakatime Stats:</h3>
-<hr />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030&show_icons=true&theme=buefy">
-</p>
-
-<hr>
-<h3 align="center">GitHub Stats:</h3>
-<hr />
-<p align="center" style='display: flex; flex-wrap: wrap; width: 100%;'>
-<img style='border: 0.2px solid grey; border-radius: 5px; width: 70% max-width: 400px;' src="https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=buefy">
-<img style='border: 0.2px solid grey; border-radius: 5px; width: 70% max-width: 400px;' src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254&theme=buefy">
-<img width='400px' style='border: 1.9px solid grey; border-radius: 10px; width: 70% max-width: 400px;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats">
-</p>
+| Overall                                                                                                        | Stats                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![stat](https://github-readme-stats.vercel.app/api/wakatime?username=_saurabh_030&show_icons=true&theme=buefy) | ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254&theme=buefy)                                     |
+| ![stats](https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=buefy)           | ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh254&layout=compact&langs_count=5&theme=buefy) |
 <hr>
 
 <h3 align="center">Other Stats: </h3>
@@ -66,12 +50,8 @@
 </p>
 
 
-<hr>
 <h3 align="center">Contribution:</h3>
 <hr />
-<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurabh254&theme=buefy'>
-<br>
-<br>
 
 <img src='https://github-profile-trophy.vercel.app/?username=Saurabh254&theme=buefy'>
 </p>
