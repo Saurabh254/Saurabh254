@@ -24,7 +24,7 @@
 
 <hr />
 <p align='center' class='width: 100%; display: flex; align-items: center; justify-content: center;'>
-<h4>My website <a href='https://www.saurabhvishwakarma.in'> www.saurabhvishwakarma.in</a></h4>
+<h4>My website <a href='https://saurabhvishwakarma.in'> saurabhvishwakarma.in</a></h4>
 </p>
 
 <hr>
