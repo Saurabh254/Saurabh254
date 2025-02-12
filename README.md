@@ -1,11 +1,14 @@
 <h1 align="center"> <span> नमस्ते </span> (𝓝𝓪𝓶𝓪𝓼𝓽𝓮)👋 </h1>
 <h2 align="center">I'm <span >Saurabh Vishwakarma</span>
 </h2>
+<div align='center' class='display: flex; align-items: center; justify-content: center; width: 100%;'>
+    
+<img  src='https://komarev.com/ghpvc/?username=saurabh254&label=Profile%20views&color=0e75b6&style=flat' />
+</div>
 <hr />
 <div align='center'>
 <img src='/assets/banner.gif' style='width:100%;'/>
 </div>
-
 <hr/>
 
 <p align='center'>
