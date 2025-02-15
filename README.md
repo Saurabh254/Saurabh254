@@ -23,7 +23,9 @@
 
 ## 📖 About Me
 
-I am a Final Year undergraduate. A passionate backend engineer and a Architect Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.
+I am Saurabh Vishwakarma, a backend engineer passionate about building scalable and high-performance applications. I specialize in developing REST APIs and architecting real-time systems with technologies such as LiveKit, MQTT, and AWS services. I follow different design principles to ensure modular, maintainable, and efficient codebases.
+
+With a strong foundation in algorithms, system design, and cloud platforms, I enjoy solving complex engineering challenges and contributing to open-source projects.
 
 ---
 
