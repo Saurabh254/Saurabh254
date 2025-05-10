@@ -2,23 +2,14 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    - cron: '0 */1 * * *'
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
-  wakatime-matrok:
+  matrix:
     runs-on: ubuntu-latest 
     steps: 
-      - uses: anmol098/waka-readme-stats@master
-        with: 
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          SECTION_NAME: wakatime-stats
-          COMMIT_BY_ME: True
-          COMMIT_USERNAME: ReadMe-Bot
-          SHOW_COMMIT: True
-          SHOW_LANGUAGE: True
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
