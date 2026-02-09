@@ -12,11 +12,7 @@
     <img src="https://img.shields.io/github/last-commit/saurabh254/saurabh254" />
     <a href="mailto:contact@saurabhvishwakarma.in"><img src="https://img.shields.io/badge/Email-contact%40saurabhvishwakarma.in-blue?style=flat-square&logo=gmail"></a>
      <a href="https://saurabhvishwakarma.in"><img src="https://img.shields.io/badge/Portfolio-saurabhvishwakarma.in-blue?style=flat-square&logo=google-chrome"></a>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saurabh254&theme=light" alt="saurabh254" />
-    </a>
-</p>
+
 </p>
 
 ---
@@ -32,15 +28,9 @@ With a strong foundation in algorithms, system design, and cloud platforms, I en
 ## Stats
 
 
-| Overall                                                                                             | Stats                                                                                   |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ![stat](https://github-readme-stats.vercel.app/api?username=Saurabh254&show_icons=true&theme=buefy) | ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254&theme=buefy) |
+ ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh254&theme=buefy) 
 
 
-<details>
-<summary>📊  More </summary>
-<img src='./github-metrics.svg'/>
-</details>
 
 ---
 
@@ -58,7 +48,7 @@ With a strong foundation in algorithms, system design, and cloud platforms, I en
 
 #### Other Tools
 <p align='left'>
-<img src="https://skillicons.dev/icons?i=git,redis,postgres,linux,grafana,nginx,kafka,aws,gcp&theme=light&perline=12" />
+<img src="https://skillicons.dev/icons?i=git,redis,postgres,linux,grafana,nginx,kafka,aws,gcp,supabase&theme=light&perline=12" />
 </p>
 
 ---
