@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align='center'>Software Engineer | Backend Engineer </h3>
+<h3 align='center'>Software Engineer | Backend Engineer | AI Engineer </h3>
 
 ---
 
